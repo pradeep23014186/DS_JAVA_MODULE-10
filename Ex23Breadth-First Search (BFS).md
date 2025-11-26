@@ -20,8 +20,8 @@ To design and implement a java program to perform Breadth-First Search (BFS) tra
 ## Program:
 ```
 Program to perform Breadth-First Search (BFS) traversal on a city’s junction map represented as a graph
-Developed by: GNANENDRAN N
-Register Number: 212223240037
+Developed by: PRADEEP KUMAR G
+Register Number: 212223230150
 ```
 ```JAVA
 import java.util.*;
