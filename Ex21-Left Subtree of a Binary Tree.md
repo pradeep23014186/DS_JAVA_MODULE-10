@@ -17,8 +17,8 @@ To design and implement a java program that constructs a binary tree from given 
 ## Program:
 ```
 Program to constructs a binary tree from given level order input and counts the number of nodes 
-Developed by: GNANENDRAN N
-Register Number: 212223240037
+Developed by: PRADEEP KUMAR G
+Register Number: 212223230150
 ```
 ```JAVA
 import java.util.*;
